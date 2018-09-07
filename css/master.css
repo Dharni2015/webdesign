@@ -1,0 +1,9 @@
+body{
+  background: red;
+}
+
+#sign-up-Form{
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+}
